@@ -1,0 +1,31 @@
+1;Centre Alpha;Tunis Centre;Musculation;12/12/2025;10:00
+2;Centre Alpha;Tunis Centre;Cardio;12/12/2025;10:00
+3;Centre Alpha;Tunis Centre;Yoga;12/12/2025;10:00
+4;Centre Beta;Ariana;Fitness;12/12/2025;09:00
+5;Centre Beta;Ariana;Cross Training;12/12/2025;09:00
+6;Centre Gamma;Sousse;Karaté;13/12/2025;14:00
+7;Centre Gamma;Sousse;Judo;13/12/2025;14:00
+8;Centre Gamma;Sousse;Taekwondo;13/12/2025;14:00
+9;Centre Gamma;Sousse;Aikido;13/12/2025;14:00
+10;Centre Delta;Sfax;Zumba;14/12/2025;16:00
+11;Centre Delta;Sfax;Hip Hop;14/12/2025;16:00
+12;Centre Delta;Sfax;Salsa;14/12/2025;16:00
+13;Centre Epsilon;Nabeul;Yoga Débutant;15/12/2025;08:00
+14;Centre Epsilon;Nabeul;Yoga Avancé;15/12/2025;08:00
+15;Centre Zeta;Bizerte;Natation Enfants;16/12/2025;11:00
+16;Centre Zeta;Bizerte;Natation Adultes;16/12/2025;11:00
+17;Centre Zeta;Bizerte;Aquagym;16/12/2025;11:00
+18;Centre Zeta;Bizerte;Plongée;16/12/2025;11:00
+19;Centre Zeta;Bizerte;Water Polo;16/12/2025;11:00
+20;Centre Eta;Gabes;Cardio Boxe;17/12/2025;10:00
+21;Centre Eta;Gabes;HIIT;17/12/2025;10:00
+22;Centre Eta;Gabes;Spinning;17/12/2025;10:00
+23;Centre Theta;Kairouan;Musculation;18/12/2025;15:00
+24;Centre Theta;Kairouan;Powerlifting;18/12/2025;15:00
+25;Centre Theta;Kairouan;Bodybuilding;18/12/2025;15:00
+26;Centre Theta;Kairouan;CrossFit;18/12/2025;15:00
+27;Centre Iota;Monastir;Pilates Débutant;19/12/2025;09:30
+28;Centre Iota;Monastir;Pilates Avancé;19/12/2025;09:30
+29;Centre Kappa;Mahdia;CrossFit Débutant;20/12/2025;17:00
+30;Centre Kappa;Mahdia;CrossFit Intermédiaire;20/12/2025;17:00
+31;Centre Kappa;Mahdia;CrossFit Avancé;20/12/2025;17:00
