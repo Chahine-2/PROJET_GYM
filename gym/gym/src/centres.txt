@@ -1,0 +1,10 @@
+1;Centre Alpha;Tunis Centre;3;71234567;alpha@mail.com;Sport;30
+2;Centre Beta;Ariana;2;98765432;beta@mail.com;Fitness;20
+3;Centre Gamma;Sousse;4;73456789;gamma@mail.com;Arts Martiaux;40
+4;Centre Delta;Sfax;3;74125896;delta@mail.com;Danse;25
+5;Centre Epsilon;Nabeul;2;75641238;epsilon@mail.com;Yoga;15
+6;Centre Zeta;Bizerte;5;78541236;zeta@mail.com;Natation;50
+7;Centre Eta;Gabes;3;70123456;eta@mail.com;Cardio;35
+8;Centre Theta;Kairouan;4;99887766;theta@mail.com;Musculation;45
+9;Centre Iota;Monastir;2;73216548;iota@mail.com;Pilates;18
+10;Centre Kappa;Mahdia;3;74589632;kappa@mail.com;CrossFit;28

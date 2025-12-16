@@ -1,0 +1,7 @@
+1;Pilates Modifié;Salle C;Sophie Lambert;17 3 2024;10 0;1;25;0
+21871001;aerobic;mercredi;10;12;2025;14;0;1;mahdi;1;sfax
+21871002;kick boxing ;vendredi;27;2;2026;18;0;5;rayen;2;sousse
+21871003;spinning;mercredi;17;12;2025;1;0;1;ali;1;zaghouane
+1001;Test Cours;lundi;1;1;2024;10;0;1;Test Entraineur;60;Test Centre
+1001;Test Cours;lundi;1;1;2024;10;0;1;Test Entraineur;60;Test Centre
+1001;Test Cours;lundi;1;1;2024;10;0;1;Test Entraineur;60;Test Centre

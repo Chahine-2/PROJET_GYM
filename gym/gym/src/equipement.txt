@@ -1,0 +1,5 @@
+1	Cages à squat	Équipements fonctionnels / CrossFit	energy gym	1	disponible
+2	Vélo elliptique	Équipements fonctionnels / CrossFit	energy gym	3	disponible
+3	Rameur	Cardio	energy gym	100	disponible
+4	Machines guidées	Cardio	energy fit	1	disponible
+5	Cordes de bataille	Accessoires et petits équipements	energy gym	1	disponible
